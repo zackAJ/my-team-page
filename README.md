@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/P4KijFewtVtIdiYAShOK">
       Solution
     </a>
     <span> | </span>
@@ -37,7 +37,6 @@
 ## Overview
 
 ![screenshot](demo.png)
-
 
 - demo link : https://zack-aj07-my-team.netlify.app
 - I had so much fun make this with flexBox , can't wait to learn grid now !
