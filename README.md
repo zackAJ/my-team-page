@@ -66,5 +66,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@zackAJ](https://{github.com/zackAJ)
-- Instagram [@zack_aj07](https://{twitter.com/zack_aj07)
+- GitHub [@zackAJ](https://github.com/zackAJ)
+- Instagram [@zack_aj07](https://instagram.com/zack_aj07)
