@@ -145,7 +145,7 @@ footer>p{
   text-align: center;
 }
 
-@media (min-width:792px) {
+@media (min-width:809px) {
   .crewContainer> :nth-child(1) {
     align-self: flex-start;
   }
@@ -170,14 +170,14 @@ footer>p{
     align-self: flex-start;
   }
 
-  .role {
+  /* .role {
     font-size: 12px;
     line-height: 1.59rem;
   }
   .name{
     font-size: 1.8rem;
     line-height: 2.7rem;
-  }
+  } */
 }
 @media (min-width:621px){
   .introContainer{
